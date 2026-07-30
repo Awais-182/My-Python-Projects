@@ -1,12 +1,12 @@
-# 🏛️ Python Program Vault (`python-program-vault`)
+# 🏛️ My Python Projects (`my-python-projects`)
 
-Welcome to the **Python Program Vault**! This repository serves as a structured, modular archive of Python projects, practice modules, and educational notebooks designed for direct execution in **Google Colab**.
+Welcome to the **My Python Projects**! This repository serves as a structured, modular archive of Python projects, practice modules, and educational notebooks designed for direct execution in **Google Colab**.
 
 Every project in this vault follows a standardized, text-cell-first architecture—separating core concepts into input acquisition, step-by-step logic, output formatting, and technical edge cases.
 
 ---
 
-## 📂 Vault Projects Breakdown
+## 📂 Python Projects Breakdown
 
 | Subfolder Directory | Module Name | Status | Covered Operators & Concepts |
 | :--- | :--- | :---: | :--- |
@@ -25,4 +25,4 @@ Every project in this vault follows a standardized, text-cell-first architecture
 ## 👤 Author
 
 * **Author:** Awais
-* **Repository:** `python-program-vault`
+* **Repository:** `My_Python_Projects`
