@@ -11,9 +11,6 @@ Every project in this vault follows a standardized, text-cell-first architecture
 | Subfolder Directory | Module Name | Status | Covered Operators & Concepts |
 | :--- | :--- | :---: | :--- |
 | **[`/basic-arithmetic-calculator`](./basic-arithmetic-calculator/)** | Basic Arithmetic Calculator | `Complete` | `+`, `-`, `*`, `/`, `//`, `%`, `**` |
-| **`/control-flow-and-loops`** | Control Flow & Loops | `Planned` | `if`, `elif`, `else`, `while`, `for`, `break`, `continue` |
-| **`/data-structures-basics`** | Built-in Data Structures | `Planned` | `list`, `tuple`, `set`, `dict` |
-| **`/functions-and-modules`** | Functions & Modularity | `Planned` | `def`, positional arguments, return values, importing modules |
 
 ---
 
